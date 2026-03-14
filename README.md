@@ -46,7 +46,6 @@ react-counter-app
 ├── src
 │   ├── App.jsx
 │   ├── main.jsx
-│   └── components
 │
 ├── index.html
 ├── package.json

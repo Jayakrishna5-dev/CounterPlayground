@@ -7,7 +7,7 @@ This project demonstrates the use of **React Hooks (`useState`)**, component-bas
 
 ## 🚀 Live Demo
 
-https://your-live-link.vercel.app
+https://counterplayground.netlify.app/
 
 ---
 
